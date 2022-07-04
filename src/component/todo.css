@@ -16,12 +16,14 @@ html {
   background: #060822;
   display: flex;
   justify-content: center;
+  
   /* align-items: center; */
 }
 
 .child-div {
   text-align: center;
   margin-top: 12rem;
+  border: 2px solid white;
 }
 
 .child-div figure img {
